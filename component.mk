@@ -1,1 +1,2 @@
-COMPONENT_SRCDIRS := ./picohttpparser
+COMPONENT_ADD_INCLUDEDIRS := ./picohttpparser
+COMPONENT_OBJS := ./picohttpparser/picohttpparser.o
